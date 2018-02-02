@@ -1,0 +1,10 @@
+To play run the ScrabbleGui file in the location "edu.cmu.cs.cs214.hw4.gui"
+
+A small start game window will apear. Enter the names of upto 4 players that 
+will play together. Then click on Start scrabble button. Each player has his/her 
+own window that is updated as soon as a player makes move. 
+
+A word tile is placed on the board by clicking on it in the rack and then clicking on
+the board location where the tile should be placed on the desired square in the board. 
+Once the move is made click on play. Else click skip to skip the turn.
+
